@@ -32,7 +32,7 @@
         echo file_get_contents("../data/".$_GET['id']);
       }else{
         echo "Hello, PHP";
-      }
+      } 
      ?>
   </body>
 </html>
